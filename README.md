@@ -1,16 +1,43 @@
-# React + Vite
+# 🏋️ Gymat Fitness Website (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive fitness website built using **ReactJS**, **React Bootstrap**, and **React Router**, inspired by the Gymat theme.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Fully responsive UI
+- Modern fitness website design
+- Reusable React components
+- Routing using React Router
+- Styled using React Bootstrap and custom CSS
+- Clean and structured codebase
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React JS
+- React Bootstrap
+- React Router DOM
+- CSS3
+
+---
+## 📷 Screenshot
+<img width="1905" height="1803" alt="localhost_5173_ (1)" src="https://github.com/user-attachments/assets/77a64d84-04f6-4c22-b028-787d903a9bf6" />
+<img width="1905" height="1803" alt="localhost_5173_ (2)" src="https://github.com/user-attachments/assets/83dda370-52d1-4378-b5c6-19cfac3012db" />
+<img width="1905" height="2646" alt="localhost_5173_ (3)" src="https://github.com/user-attachments/assets/f5adfff0-76ab-4377-aef4-84172a22b21e" />
+<img width="1905" height="4629" alt="localhost_5173_" src="https://github.com/user-attachments/assets/be0a6610-05fe-4753-b0cd-aea8170efe53" />
+<img width="1905" height="2060" alt="localhost_5173_ (7)" src="https://github.com/user-attachments/assets/73a07dc9-8f98-4676-a43a-5d920fba8e9d" />
+<img width="1905" height="2959" alt="localhost_5173_ (6)" src="https://github.com/user-attachments/assets/1e24d018-1656-474b-b0ff-c73247938e4b" />
+<img width="1905" height="2523" alt="localhost_5173_ (5)" src="https://github.com/user-attachments/assets/74cb2c9d-bbee-44f4-9672-02d0962c9039" />
+<img width="1905" height="1831" alt="localhost_5173_ (4)" src="https://github.com/user-attachments/assets/15e4b572-5f32-4e03-8af2-89bd99b626b8" />
+
+## ⚙️ Setup
+
+```bash
+npm install
+npm run dev
+```
+## 👨‍💻 Author
+**_Megh Parekh_**
